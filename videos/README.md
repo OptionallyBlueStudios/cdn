@@ -1,1 +1,1 @@
-Videos for OptionallyBlueStudios Are Now Located On The [CDN Site](https://optionally-blue-studios.github.io/cdn?goto=vids)
+Videos for OptionallyBlueStudios Are Now Located On The [CDN Site](https://optionallybluestudios.github.io/cdn?goto=vids)
