@@ -1,0 +1,25 @@
+body {
+    background: #CE5937;
+    background: -moz-linear-gradient(top, #CE5937 0%, #2B2743 0%, #201F58 100%);
+    background: -webkit-linear-gradient(top, #CE5937 0%, #2B2743 0%, #201F58 100%);
+    background: linear-gradient(to bottom, #CE5937 0%, #2B2743 0%, #201F58 100%);
+    color: white;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 479;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
