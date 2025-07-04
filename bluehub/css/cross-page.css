@@ -1,11 +1,4 @@
 /* === Background and Global Text Styles === */
-body {
-    background: linear-gradient(to bottom, #CE5937 0%, #2B2743 0%, #201F58 100%);
-    color: white;
-    font-family: "Roboto", sans-serif;
-    margin: 0;
-    padding: 0;
-}
 
 /* === Headings === */
 h1, h2, h3 {
