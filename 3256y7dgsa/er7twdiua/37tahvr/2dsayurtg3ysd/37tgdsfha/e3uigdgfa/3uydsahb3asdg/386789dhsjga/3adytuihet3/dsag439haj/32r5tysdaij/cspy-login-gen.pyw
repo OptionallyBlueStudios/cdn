@@ -35,7 +35,7 @@ def generate_login():
         result_label.configure(text="All fields are required.", text_color="red")
         return
 
-    url = f"http://141.147.118.157:5678/webhook/03d776ed-329e-495a-b5bc-792c8c606c6f?username={username}&email={email}&name={name}"
+    url = f"http://141.147.118.157:5678/webhook/03d776ed-329e-495a-b5bc-792c8c606c6f45?username={username}&email={email}&name={name}"
     
     try:
         response = requests.get(url)
